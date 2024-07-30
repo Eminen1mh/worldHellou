@@ -1,2 +1,3 @@
 v
-oldmec:1337
+admin:senha123
+usuario1:minhasenha
